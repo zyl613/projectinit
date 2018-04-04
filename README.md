@@ -15,7 +15,7 @@ https://github.com/zyl613/projectinit/blob/master/Vagrantfile
 在任意文件夹空白处右击，选择 `Git Bash`，复制以下命令并执行：
 
 ```sh
-sh -c "$(curl -fsSL https://github.com/bkzxp/projectinit/raw/master/sh/init.sh)"
+sh -c "$(curl -fsSL https://github.com/zyl613/projectinit/raw/master/sh/init.sh)"
 ```
 
 根据提示输入`工作目录`，如果目录是 `D:/www` ，请输入 `/d/www` 。
