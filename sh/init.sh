@@ -7,8 +7,8 @@
 #
 ############################
 
-initdir=/d/projectinit
-giturl=https://github.com/bkzxp/projectinit.git
+initdir=/d/github/projectinit
+giturl=https://github.com/zyl613/projectinit.git
 dotrc=~/.bashrc
 firstBoot=0
 
