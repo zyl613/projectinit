@@ -5,7 +5,7 @@ settings = YAML.load_file File.dirname(__FILE__) + '/settings.yml'
 
 Vagrant.configure("2") do |config|
   config.vm.box = "tb7"
-  config.vm.box_url = "E:\\vagrant-boxes\\env_php\\tb7.box"
+  config.vm.box_url = "D:\\gitlab\\php_env\\tb7.box"
   config.vm.box_check_update = false
   config.vm.hostname = "zyl"
   config.vm.define "zyl" do |tb|
